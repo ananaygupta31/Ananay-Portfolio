@@ -31,7 +31,7 @@ const About = () => {
     },
     {
       icon: Target,
-      title: "16",
+      title: "14",
       suffix: "",
       description: "Started Investing",
       color: "from-primary to-accent",
