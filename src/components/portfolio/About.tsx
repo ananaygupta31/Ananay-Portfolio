@@ -95,7 +95,7 @@ const About = () => {
             <p className="text-lg text-foreground/90 leading-relaxed text-center">
               Quality Control Associate at{" "}
               <span className="text-primary font-semibold">S&P Global</span> with a passion for financial markets
-              that began at the age of 15. Specializing in{" "}
+              that began at the age of 14. Specializing in{" "}
               <span className="text-accent font-semibold">syndicated loans</span> and{" "}
               <span className="text-secondary font-semibold">trade settlements</span>,
               I bring meticulous attention to detail and a proven track record of 99.9%+ accuracy
