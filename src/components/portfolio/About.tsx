@@ -10,7 +10,7 @@ const About = () => {
   const highlights = [
     {
       icon: TrendingUp,
-      title: "1.5+",
+      title: "1+",
       suffix: " Years",
       description: "At S&P Global",
       color: "from-primary to-accent",
