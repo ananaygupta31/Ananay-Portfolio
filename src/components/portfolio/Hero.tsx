@@ -155,7 +155,7 @@ const Hero = () => {
           >
             Quality Control Associate at{" "}
             <span className="text-primary font-semibold">S&P Global</span> with
-            a passion for finance that began at 14. Maintaining{" "}
+            a passion for finance that began investing at 14. Maintaining{" "}
             <span className="text-accent font-semibold">99.9%+ accuracy</span>{" "}
             across 15,000+ transactions.
           </motion.p>
