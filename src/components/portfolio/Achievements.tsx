@@ -11,7 +11,7 @@ const Achievements = () => {
     {
       icon: Target,
       title: "Early Investor",
-      description: "Started investing journey at age 16, developing deep market understanding",
+      description: "Started investing journey at age 14, developing deep market understanding",
       color: "from-primary to-accent",
     },
     {
